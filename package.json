@@ -1,0 +1,15 @@
+{
+  "name": "m2x_temp",
+  "version": "0.0.1",
+  "description": "Tessel temperature through AT&T M2X",
+  "main": "temp_sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "Tessel temperature through AT&T M2X."
+}
