@@ -8,6 +8,9 @@ This project contains two sample AT&T M2X applications for the Tessel 2. The pro
 
 Populate the `config.js` file with settings for your particular M2X account and the Device you've defined in M2X then run the code. 
 
+Temperature data recorded in AT&T M2X:
+
+![Weather Station Data](screenshots/weather-station-data.png) 
 ***
 
 You can find information on many different topics on my [personal blog](http://www.johnwargo.com). Learn about all of my publications at [John Wargo Books](http://www.johnwargobooks.com). 
